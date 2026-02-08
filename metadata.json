@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NovaAI - High Performance Intelligence",
+  "description": "A sophisticated AI platform powered by Gemini 3 Pro, featuring multi-modal chat, persona hub, and advanced file analysis with long-context support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
